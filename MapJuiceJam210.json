@@ -1,5 +1,869 @@
-{"data":{"level":[{"width":9,"spawn_table":[{"type":"bee","percent":0.2}],"forced_spawn_queue":[{"type":"match_object","color":"red"},{"type":"match_object","color":"red"},{"type":"match_object","color":"red"},{"type":"bee"},{"type":"match_object","color":"green"},{"type":"bee"},{"type":"bee"}],"bossScripts":[],
-"numericId":10,"popsiclesToCollect":0,"objects":{"4_4":{"data":"1","type":"sugar"},"1_3":{"data":{},"type":"bee"},"6_6":{"type":"match_object","data":{},"color":"red"},"0_0":{"data":"1","type":"sugar"},"2_7":{"type":"match_object","data":{},"color":"green"},"4_6":{"data":{},"type":"bee"},"6_5":{"type":"match_object","data":{},"color":"green"},"1_4":{"type":"match_object","data":{},"color":"green"},"8_5":{"type":"match_object","data":{},"color":"green"},"2_6":{"type":"match_object","data":{},"color":"red"},"8_0":{"data":"1","type":"sugar"},"8_3":{"type":"match_object","data":{},"color":"green"},"0_7":{"type":"match_object","data":{},"color":"green"},"8_7":{"type":"match_object","data":{},"color":"green"},"3_7":{"type":"match_object","data":{},"color":"red"},"8_2":{"data":{},"type":"bee"},"1_1":{"data":"1","type":"sugar"},"3_3":{"data":"1","type":"sugar"},"7_1":{"data":"1","type":"sugar"},"5_6":{"type":"match_object","data":{},"color":"green"},"7_2":{"data":"1","type":"sugar"},"0_2":{"data":{},"type":"bee"},"5_7":{"type":"match_object","data":{},"color":"red"},"4_5":{"data":"1","type":"sugar"},"2_2":{"data":"1","type":"sugar"},"8_6":{"type":"match_object","data":{},"color":"red"},"0_1":{"data":"1","type":"sugar"},"1_7":{"type":"match_object","data":{},"color":"red"},"8_1":{"data":"1","type":"sugar"},"7_7":{"type":"match_object","data":{},"color":"red"},"8_4":{"type":"match_object","data":{},"color":"red"},"7_5":{"type":"match_object","data":{},"color":"red"},"0_3":{"type":"match_object","data":{},"color":"green"},"0_5":{"type":"match_object","data":{},"color":"green"},"6_3":{"data":"1","type":"sugar"},"0_6":{"type":"match_object","data":{},"color":"red"},"2_5":{"type":"match_object","data":{},"color":"green"},"0_4":{"type":"match_object","data":{},"color":"red"},"6_2":{"data":"1","type":"sugar"},"1_5":{"type":"match_object","data":{},"color":"red"},"7_3":{"data":{},"type":"bee"},"4_0":{"data":{},"type":"rainbow"},"5_5":{"data":{},"type":"bee"},"5_3":{"data":"1","type":"sugar"},"3_6":{"type":"match_object","data":{},"color":"green"},"2_3":{"data":"1","type":"sugar"},"1_6":{"type":"match_object","data":{},"color":"green"},"3_5":{"data":{},"type":"bee"},"7_4":{"type":"match_object","data":{},"color":"green"},"3_4":{"data":"1","type":"sugar"},"7_6":{"type":"match_object","data":{},"color":"green"},"6_4":{"data":{},"type":"bee"},"6_7":{"type":"match_object","data":{},"color":"green"},"4_7":{"type":"match_object","data":{},"color":"green"},"2_4":{"data":{},"type":"bee"},"5_4":{"data":"1","type":"sugar"},"1_2":{"data":"1","type":"sugar"}},
-"scores":[1600,5700,10800],
-"title":"Level 10","height":8,"background":"","colors":{"orange":1.8,"blue":3.2,"purple":3.2,"red":3.2,"green":3.7},"layers":{"0":{},"1":{},"2":{},"3":{},"4":{},"5":{},"6":{},"7":{},"8":{},"9":{},"10":{},"11":{},"12":{"3_2":{"type":"honey","data":{},"color":"white"},"5_0":{"type":"honey","data":{},"color":"white"},"7_0":{"type":"honey","data":{},"color":"white"},"4_0":{"type":"honey","data":{},"color":"white"},"6_0":{"type":"honey","data":{},"color":"white"},"1_0":{"type":"honey","data":{},"color":"white"},"5_2":{"type":"honey","data":{},"color":"white"},"4_1":{"type":"honey","data":{},"color":"white"},"4_2":{"type":"honey","data":{},"color":"white"},"4_3":{"type":"honey","data":{},"color":"white"},"2_1":{"type":"honey","data":{},"color":"white"},"5_1":{"type":"honey","data":{},"color":"white"},"2_0":{"type":"honey","data":{},"color":"white"},"3_0":{"type":"honey","data":{},"color":"white"},"6_1":{"type":"honey","data":{},"color":"white"},"3_1":{"type":"honey","data":{},"color":"white"}},"13":{},"15":{},"16":{},"17":{},"18":{}},"limit":[{"value":30,"type":"move"}],"spawners":{},"pregame_boosters":[],"goals":[{"value":3,"type":"break","object_type":"honey"},{"value":1,"type":"break","object_type":"match_object","color":"green"},{"value":1,"type":"break","object_type":"match_object","color":"red"},{"value":1,"type":"break","object_type":"match_object","color":"blue"}],"bossMaxHealth":250,"mode":"boss_battle","episode":1,"boosters":["single_block_breaker"],"game":10,"data":[],"recipe_item":""
-}]}}
+{
+   "data":{
+      "level":[
+         {
+            "width":9,
+            "spawn_table":[
+
+            ],
+            "forced_spawn_queue":[
+
+            ],
+            "bossScripts":[
+
+            ],
+            "numericId":210,
+            "popsiclesToCollect":0,
+            "objects":{
+               "4_4":{
+                  "data":{
+
+                  },
+                  "type":"invisible_brick"
+               },
+               "3_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_0":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "6_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_7":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_6":{
+                  "data":{
+
+                  },
+                  "type":"invisible_brick"
+               },
+               "3_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_0":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "8_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_0":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "8_3":{
+                  "data":{
+
+                  },
+                  "type":"yogurt_cup"
+               },
+               "0_7":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "8_2":{
+                  "data":{
+
+                  },
+                  "type":"yogurt_cup"
+               },
+               "3_7":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_0":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "7_2":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "4_3":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "3_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_1":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "5_2":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "5_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_2":{
+                  "data":"3",
+                  "type":"muffin"
+               },
+               "6_0":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "1_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_7":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_5":{
+                  "data":"3",
+                  "type":"muffin"
+               },
+               "2_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_1":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "4_1":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "1_7":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_7":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "8_1":{
+                  "data":{
+
+                  },
+                  "type":"yogurt_cup"
+               },
+               "7_7":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_4":{
+                  "data":{
+
+                  },
+                  "type":"yogurt_cup"
+               },
+               "7_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_1":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "0_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_3":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "1_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_2":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "3_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_3":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "4_0":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "5_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_4":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "4_7":{
+                  "data":{
+
+                  },
+                  "type":"invisible_brick"
+               },
+               "0_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_4":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "6_7":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_3":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "2_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_4":{
+                  "data":{
+
+                  },
+                  "type":"yogurt"
+               },
+               "1_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               }
+            },
+            "scores":[
+               2000,
+               8100,
+               14100
+            ],
+            "title":"Level 210",
+            "height":8,
+            "background":"",
+            "colors":{
+               "orange":1,
+               "purple":1,
+               "red":1,
+               "green":1,
+               "yellow":1
+            },
+            "layers":{
+               "0":{
+
+               },
+               "1":{
+
+               },
+               "2":{
+                  "3_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "7_3":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_5":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_3":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "4_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_4":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "7_5":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "3_5":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "7_4":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "4_5":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_5":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_5":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "6_5":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "7_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_2":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  }
+               },
+               "3":{
+
+               },
+               "4":{
+
+               },
+               "5":{
+
+               },
+               "6":{
+
+               },
+               "7":{
+
+               },
+               "8":{
+
+               },
+               "9":{
+
+               },
+               "10":{
+
+               },
+               "11":{
+
+               },
+               "12":{
+
+               },
+               "13":{
+
+               },
+               "15":{
+
+               },
+               "16":{
+
+               },
+               "17":{
+
+               },
+               "18":{
+                  "5_7":{
+                     "data":{
+                        "name":"mu1",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.09,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "3_7":{
+                     "data":{
+                        "name":"muffin",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.05,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "7_7":{
+                     "data":{
+                        "name":"mu1",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.09,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "2_7":{
+                     "data":{
+                        "name":"muffin",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.05,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "6_7":{
+                     "data":{
+                        "name":"mu1",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.09,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "0_7":{
+                     "data":{
+                        "name":"muffin",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.05,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "8_7":{
+                     "data":{
+                        "name":"mu1",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.09,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "1_7":{
+                     "data":{
+                        "name":"muffin",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+                           {
+                              "type":"muffin",
+                              "data":3,
+                              "percent":0.05,
+                              "color":"any"
+                           }
+                        ],
+                        "colors":{
+                           "orange":1,
+                           "purple":1,
+                           "red":1,
+                           "green":1,
+                           "yellow":1
+                        }
+                     },
+                     "type":"spawner"
+                  }
+               }
+            },
+            "limit":[
+               {
+                  "value":29,
+                  "type":"move"
+               }
+            ],
+            "spawners":{
+
+            },
+            "pregame_boosters":[
+
+            ],
+            "goals":[
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"muffin"
+               },
+               {
+                  "value":6,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"muffin"
+               },
+               {
+                  "value":6,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"muffin"
+               },
+               {
+                  "value":6,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"muffin"
+               }
+            ],
+            "bossMaxHealth":0,
+            "mode":"order_fulfillment",
+            "episode":7,
+            "boosters":[
+               "single_block_breaker",
+               "row_breaker",
+               "column_breaker"
+            ],
+            "game":10,
+            "data":[
+
+            ],
+            "recipe_item":""
+         }
+      ]
+   }
+}

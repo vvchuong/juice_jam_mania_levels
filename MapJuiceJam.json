@@ -200,12 +200,13 @@
 "numericId":199,"title":"Level 199","mode":"popsicle"},{
 "numericId":200,"title":"Level 200","mode":"boss_battle"},{
 "numericId":201,"title":"Level 201","mode":"order_fulfillment"},{
-"numericId":202,"title":"Level 202","mode":"order_fulfillment"},{
+"numericId":202,"title":"Level 202","mode":"popsicle"},{
 "numericId":203,"title":"Level 203","mode":"order_fulfillment"},{
-"numericId":204,"title":"Level 204","mode":"boss_battle"},{
-"numericId":206,"title":"Level 206","mode":"order_fulfillment"},{
+"numericId":204,"title":"Level 204","mode":"popsicle"},{
+"numericId":205,"title":"Level 205","mode":"order_fulfillment"},{
+"numericId":206,"title":"Level 206","mode":"clear_juice"},{
 "numericId":207,"title":"Level 207","mode":"popsicle"},{
 "numericId":208,"title":"Level 208","mode":"popsicle"},{
 "numericId":209,"title":"Level 209","mode":"popsicle"},{
-"numericId":210,"title":"Level 210","mode":"boss_battle"}
+"numericId":210,"title":"Level 210","mode":"order_fulfillment"}
 ]}}
