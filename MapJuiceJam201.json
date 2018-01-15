@@ -1,0 +1,739 @@
+{
+   "data":{
+      "level":[
+         {
+            "width":9,
+            "spawn_table":[
+
+            ],
+            "forced_spawn_queue":[
+
+            ],
+            "bossScripts":[
+
+            ],
+            "numericId":201,
+            "popsiclesToCollect":0,
+            "objects":{
+               "4_4":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "1_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_0":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "8_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_0":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "8_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_3":{
+                  "data":{
+
+                  },
+                  "type":"yogurt_cup"
+               },
+               "3_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_2":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "4_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_2":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "6_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_6":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "3_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "8_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_1":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_6":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "2_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "0_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_2":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "1_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "4_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_0":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "1_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_5":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "7_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "3_4":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "7_6":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "6_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_3":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "2_4":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               },
+               "5_4":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "1_2":{
+                  "data":{
+
+                  },
+                  "type":"match_object"
+               }
+            },
+            "scores":[
+               1800,
+               6000,
+               10100
+            ],
+            "title":"Level 201",
+            "height":7,
+            "background":"",
+            "colors":{
+               "orange":1.5,
+               "blue":1.5,
+               "red":2.5,
+               "green":2.5,
+               "yellow":1.5
+            },
+            "layers":{
+               "0":{
+
+               },
+               "1":{
+
+               },
+               "2":{
+
+               },
+               "3":{
+
+               },
+               "4":{
+
+               },
+               "5":{
+
+               },
+               "6":{
+
+               },
+               "7":{
+
+               },
+               "8":{
+
+               },
+               "9":{
+
+               },
+               "10":{
+
+               },
+               "11":{
+
+               },
+               "12":{
+
+               },
+               "13":{
+
+               },
+               "15":{
+
+               },
+               "16":{
+
+               },
+               "17":{
+
+               },
+               "18":{
+                  "0_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "6_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "5_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "4_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "4_1":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "1_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "7_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "5_1":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "2_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "8_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "3_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "3_1":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  }
+               }
+            },
+            "limit":[
+               {
+                  "value":28,
+                  "type":"move"
+               }
+            ],
+            "spawners":{
+
+            },
+            "pregame_boosters":[
+
+            ],
+            "goals":[
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
+               {
+                  "value":12,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               }
+            ],
+            "bossMaxHealth":0,
+            "mode":"order_fulfillment",
+            "episode":7,
+            "boosters":[
+               "single_block_breaker",
+               "row_breaker",
+               "column_breaker"
+            ],
+            "game":1,
+            "data":[
+
+            ],
+            "recipe_item":""
+         }
+      ]
+   }
+}

@@ -1,0 +1,763 @@
+{
+   "data":{
+      "level":[
+         {
+            "width":7,
+            "spawn_table":[
+               {
+                  "type":"bee",
+                  "percent":0.25
+               }
+            ],
+            "forced_spawn_queue":[
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               },
+               {
+                  "type":"match_object",
+                  "color":"purple"
+               },
+               {
+                  "type":"match_object",
+                  "color":"orange"
+               }
+            ],
+            "bossScripts":[
+
+            ],
+            "numericId":12,
+            "popsiclesToCollect":0,
+            "objects":{
+               "4_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "0_2":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "5_0":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"blue"
+               },
+               "6_6":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "5_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "4_5":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "5_3":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"yellow"
+               },
+               "2_7":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "4_6":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"green"
+               },
+               "2_6":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"green"
+               },
+               "0_3":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "0_5":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"purple"
+               },
+               "6_3":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "3_6":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"blue"
+               },
+               "2_5":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "0_7":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "0_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "5_5":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "1_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "3_2":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "1_5":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "3_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "3_7":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"green"
+               },
+               "4_3":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"blue"
+               },
+               "6_2":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "3_3":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"yellow"
+               },
+               "5_2":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "2_3":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"blue"
+               },
+               "5_6":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"green"
+               },
+               "4_2":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "1_6":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"green"
+               },
+               "1_0":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"blue"
+               },
+               "1_3":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"yellow"
+               },
+               "5_7":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "4_7":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "0_6":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "2_2":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "3_0":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"blue"
+               },
+               "3_5":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"green"
+               },
+               "6_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "6_7":{
+                  "data":{
+
+                  },
+                  "type":"empty"
+               },
+               "6_5":{
+                  "type":"match_object",
+                  "data":{
+
+                  },
+                  "color":"purple"
+               },
+               "2_4":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "1_7":{
+                  "data":"1",
+                  "type":"sugar"
+               },
+               "1_2":{
+                  "data":"1",
+                  "type":"sugar"
+               }
+            },
+            "scores":[
+               1600,
+               8000,
+               15500
+            ],
+            "title":"Level 12",
+            "height":8,
+            "background":"",
+            "colors":{
+               "orange":2.2,
+               "blue":3.4,
+               "purple":2,
+               "green":3.4,
+               "yellow":1.5
+            },
+            "layers":{
+               "0":{
+
+               },
+               "1":{
+
+               },
+               "2":{
+                  "3_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "3_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "4_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "4_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "0_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "0_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  }
+               },
+               "3":{
+
+               },
+               "4":{
+
+               },
+               "5":{
+
+               },
+               "6":{
+
+               },
+               "7":{
+
+               },
+               "8":{
+
+               },
+               "9":{
+
+               },
+               "10":{
+
+               },
+               "11":{
+
+               },
+               "12":{
+                  "4_0":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "6_0":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "2_0":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "3_3":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "3_1":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "4_2":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "1_1":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "0_0":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "0_2":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "5_1":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "5_3":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "1_3":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "6_2":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  },
+                  "2_2":{
+                     "type":"honey",
+                     "data":{
+
+                     },
+                     "color":"white"
+                  }
+               },
+               "13":{
+
+               },
+               "15":{
+
+               },
+               "16":{
+
+               },
+               "17":{
+
+               },
+               "18":{
+                  "0_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "5_7":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "3_7":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "6_6":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "2_7":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "4_7":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  },
+                  "1_7":{
+                     "data":{
+                        "name":"empty",
+                        "forced_spawn_queue":[
+
+                        ],
+                        "spawn_table":[
+
+                        ],
+                        "colors":{
+
+                        }
+                     },
+                     "type":"spawner"
+                  }
+               }
+            },
+            "limit":[
+               {
+                  "value":25,
+                  "type":"move"
+               }
+            ],
+            "spawners":{
+
+            },
+            "pregame_boosters":[
+
+            ],
+            "goals":[
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"blue"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":5,
+                  "type":"customer",
+                  "object_type":"honey"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"blue"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":5,
+                  "type":"customer",
+                  "object_type":"honey"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"blue"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":5,
+                  "type":"customer",
+                  "object_type":"honey"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"blue"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"blue"
+               },
+               {
+                  "value":8,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
+               }
+            ],
+            "bossMaxHealth":0,
+            "mode":"order_fulfillment",
+            "episode":1,
+            "boosters":[
+               "single_block_breaker"
+            ],
+            "game":12,
+            "data":[
+               {
+                  "type":"conveyor_belt",
+                  "to_column":6,
+                  "from_column":6,
+                  "to_row":2,
+                  "from_row":4
+               },
+               {
+                  "type":"conveyor_belt",
+                  "to_column":0,
+                  "from_column":0,
+                  "to_row":4,
+                  "from_row":2
+               }
+            ],
+            "recipe_item":""
+         }
+      ]
+   }
+}
