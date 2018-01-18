@@ -1,5 +1,5 @@
 {"data":{"level":[{"width":9,"spawn_table":[],"forced_spawn_queue":[],"bossScripts":[],
-"numericId":186,"popsiclesToCollect":0,"objects":
+"numericId":286,"popsiclesToCollect":0,"objects":
 {"3_5":{"data":{},"type":"match_object","color":"yellow"},"5_0":{"data":{},"type":"match_object","color":"orange"},
 "6_6":{"data":{},"type":"invisible_brick"},"2_1":{"data":{},"type":"invisible_brick"},"2_7":{"data":{},"type":"match_object","color":"yellow"},
 "4_6":{"data":{},"type":"invisible_brick"},"3_1":{"data":{},"type":"invisible_brick"},"6_5":{"data":{},"type":"match_object","color":"orange"},
@@ -30,7 +30,7 @@
 "6_4":{"data":{},"type":"match_object","color":"green"},"6_7":{"data":{},"type":"match_object","color":"blue"},"4_4":{"data":{},"type":"match_object","color":"blue"},
 "5_3":{"data":{},"type":"match_object","color":"yellow"},"2_4":{"type":"match_object","data":{},"color":"yellow"},
 "5_4":{"type":"match_object","data":{},"color":"red"},"1_2":{"data":{},"type":"match_object","color":"red"},"4_2":{"data":{},"type":"match_object","color":"blue"},"4_3":{"data":{},"type":"match_object","color":"orange"}},
-"scores":[1900,5500,10500],"title":"Level 186","height":8,"background":"",
+"scores":[1900,5500,10500],"title":"Level 286","height":8,"background":"",
 "colors":{"red":1,"blue":1,"orange":1,"green":1,"yellow":1,"purple":1},
 "layers":{"0":{},"1":{},"2":{},"3":{},"4":{},"5":{},"6":{},"7":{},"8":{},"9":{},"10":{
 "0_0":{"type":"cracker","data":"3","color":"white"},"0_7":{"type":"cracker","data":"3","color":"white"},
@@ -63,7 +63,7 @@
 "8_1":{"type":"","color":"purple"},"8_2":{"type":"","color":"purple"},
 "8_5":{"type":"","color":"yellow"},"8_6":{"type":"","color":"yellow"}
 }},
-"limit":[{"value":25,"type":"move"}],
+"limit":[{"value":27,"type":"move"}],
 "spawners":{},
 "pregame_boosters":[],"goals":[
 {"value":1,"type":"break_all","object_type":"cracker"}

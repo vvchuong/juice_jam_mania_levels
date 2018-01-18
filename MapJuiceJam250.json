@@ -593,7 +593,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":40,
                   "type":"move"
                }
             ],
@@ -646,11 +646,6 @@
                   "value":10,
                   "type":"customer",
                   "object_type":"honey"
-               },
-               {
-                  "value":10,
-                  "type":"customer",
-                  "object_type":"muffin"
                },
                {
                   "value":15,

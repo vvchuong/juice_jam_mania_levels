@@ -1,5 +1,5 @@
 {"data":{"level":[{"width":9,"spawn_table":[{"type":"muffin","percent":0.1}],"forced_spawn_queue":[],"bossScripts":[],
-"numericId":198,"popsiclesToCollect":0,"objects":
+"numericId":298,"popsiclesToCollect":0,"objects":
 {"3_5":{"data":"6","type":"sugar"},"5_0":{"data":{},"type":"match_object","color":"orange"},
 "6_6":{"data":"6","type":"sugar"},"2_1":{"data":{},"type":"match_object","color":"orange"},"2_7":{"data":{},"type":"match_object","color":"yellow"},
 "4_6":{"data":{},"type":"bomb_breaker","color":"orange"},"3_1":{"data":{},"type":"match_object","color":"random"},"6_5":{"data":{},"type":"match_object","color":"blue"},
@@ -27,7 +27,7 @@
 "6_4":{"data":{},"type":"match_object","color":"yellow"},"6_7":{"data":{},"type":"match_object","color":"blue"},"4_4":{"type":"yogurt_cup","data":{}},
 "5_3":{"data":"6","type":"sugar"},"2_4":{"data":{},"type":"match_object","color":"red"},
 "5_4":{"type":"yogurt","data":{}},"1_2":{"data":{},"type":"match_object","color":"orange"},"4_2":{"data":{},"type":"match_object","color":"purple"},"4_3":{"type":"yogurt","data":{}}},
-"scores":[1900,3500,9500],"title":"Level 198","height":8,"background":"",
+"scores":[1900,3500,9500],"title":"Level 298","height":8,"background":"",
 "colors":{"red":1,"blue":1,"orange":1,"green":1,"yellow":1,"purple":1},
 "layers":{"0":{},"1":{},"2":{
 "1_2":{"data":"up","type":"conveyor_belt"},"1_3":{"data":"up","type":"conveyor_belt"},
@@ -77,7 +77,7 @@
 "8_0":{"type":"","color":"red"},"7_1":{"type":"","color":"red"},
 "8_2":{"type":"","color":"red"},"8_3":{"type":"","color":"red"}
 }},
-"limit":[{"value":26,"type":"move"}],
+"limit":[{"value":30,"type":"move"}],
 "spawners":{},
 "pregame_boosters":[],"goals":[
 {"value":1,"type":"break_all","object_type":"cracker"}

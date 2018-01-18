@@ -723,7 +723,7 @@
             },
             "limit":[
                {
-                  "value":28,
+                  "value":22,
                   "type":"move"
                }
             ],
