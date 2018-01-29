@@ -22,6 +22,11 @@
                   },
                   "color":"random"
                },
+               "4_2":{
+                  "data":"5",
+                  "type":"sugar",
+                  "modifierType":"color"
+               },
                "1_3":{
                   "data":"1",
                   "type":"sugar"

@@ -343,10 +343,9 @@
                   "type":"match_object"
                },
                "4_0":{
-                  "data":{
-
-                  },
-                  "type":"match_object"
+                  "data":"5",
+                  "type":"sugar",
+                  "modifierType":"color"
                },
                "5_5":{
                   "type":"match_object",
@@ -859,7 +858,7 @@
             },
             "limit":[
                {
-                  "value":28,
+                  "value":24,
                   "type":"move"
                }
             ],

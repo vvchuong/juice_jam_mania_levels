@@ -38,7 +38,7 @@
 "4_7":{"data":{"name":"empty","forced_spawn_queue":[],"spawn_table":[],"colors":{}},"type":"spawner"},
 "6_7":{"data":{"name":"empty","forced_spawn_queue":[],"spawn_table":[],"colors":{}},"type":"spawner"}
 }},
-"limit":[{"value":35,"type":"move"}],
+"limit":[{"value":32,"type":"move"}],
 "spawners":{},
 "pregame_boosters":[],"goals":[
 {"value":10,"type":"customer","object_type":"match_object","color":"green"},

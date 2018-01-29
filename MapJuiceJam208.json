@@ -948,7 +948,7 @@
             },
             "limit":[
                {
-                  "value":33,
+                  "value":30,
                   "type":"move"
                }
             ],

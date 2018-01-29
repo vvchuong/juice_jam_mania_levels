@@ -919,7 +919,7 @@
             },
             "limit":[
                {
-                  "value":40,
+                  "value":35,
                   "type":"move"
                }
             ],
