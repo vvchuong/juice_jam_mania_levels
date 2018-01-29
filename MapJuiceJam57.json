@@ -319,8 +319,8 @@
             },
             "scores":[
                1500,
-               8300,
-               12100
+               6300,
+               11100
             ],
             "title":"Level 57",
             "height":8,
@@ -550,12 +550,12 @@
                   "color":"red"
                },
                {
-                  "value":4,
+                  "value":8,
                   "type":"customer",
                   "object_type":"honey"
                },
                {
-                  "value":4,
+                  "value":8,
                   "type":"customer",
                   "object_type":"muffin"
                },

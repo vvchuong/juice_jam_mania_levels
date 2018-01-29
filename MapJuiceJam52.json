@@ -22,11 +22,6 @@
                   },
                   "color":"random"
                },
-               "4_2":{
-                  "data":"5",
-                  "type":"sugar",
-                  "modifierType":"color"
-               },
                "1_3":{
                   "data":"1",
                   "type":"sugar"
@@ -338,7 +333,7 @@
             },
             "scores":[
                1600,
-               10800,
+               13800,
                25900
             ],
             "title":"Level 52",
@@ -544,7 +539,7 @@
             },
             "limit":[
                {
-                  "value":25,
+                  "value":24,
                   "type":"move"
                }
             ],
@@ -608,6 +603,12 @@
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"red"
+               },
+               {
+                  "value":9,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"green"
                },
                {
                   "value":6,

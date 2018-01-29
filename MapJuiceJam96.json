@@ -801,6 +801,12 @@
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"red"
+               },
+               {
+                  "value":9,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"yellow"
                }
             ],
             "bossMaxHealth":0,

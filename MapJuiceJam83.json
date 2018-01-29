@@ -709,7 +709,7 @@
             },
             "limit":[
                {
-                  "value":22,
+                  "value":21,
                   "type":"move"
                }
             ],
@@ -776,6 +776,12 @@
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"orange"
+               },
+               {
+                  "value":10,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"purple"
                }
             ],
             "bossMaxHealth":0,

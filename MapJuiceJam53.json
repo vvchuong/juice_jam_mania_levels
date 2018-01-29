@@ -302,8 +302,8 @@
             },
             "scores":[
                1900,
-               16600,
-               32300
+               19600,
+               37300
             ],
             "title":"Level 53",
             "height":8,
@@ -354,7 +354,7 @@
                   },
                   "5_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "6_6":{
@@ -369,7 +369,7 @@
                   },
                   "2_7":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "3_1":{
@@ -409,7 +409,7 @@
                   },
                   "8_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "8_3":{
@@ -419,7 +419,7 @@
                   },
                   "0_7":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "8_7":{
@@ -429,22 +429,22 @@
                   },
                   "3_7":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "7_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "8_2":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "6_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "3_3":{
@@ -459,7 +459,7 @@
                   },
                   "5_2":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "5_6":{
@@ -469,7 +469,7 @@
                   },
                   "7_2":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "1_0":{
@@ -514,7 +514,7 @@
                   },
                   "1_7":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "1_1":{
@@ -599,7 +599,7 @@
                   },
                   "6_2":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "3_6":{

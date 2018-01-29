@@ -464,6 +464,11 @@
                {
                   "value":3,
                   "type":"customer",
+                  "object_type":"muffin"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
                   "object_type":"honey"
                }
             ],

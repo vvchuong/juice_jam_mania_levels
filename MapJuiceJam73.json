@@ -707,6 +707,11 @@
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"green"
+               },
+               {
+                  "value":3,
+                  "type":"customer",
+                  "object_type":"muffin"
                }
             ],
             "bossMaxHealth":100,

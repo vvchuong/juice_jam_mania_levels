@@ -451,7 +451,7 @@
             },
             "scores":[
                1500,
-               14200,
+               15200,
                28900
             ],
             "title":"Level 58",
@@ -503,7 +503,7 @@
                   },
                   "5_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "2_1":{
@@ -518,7 +518,7 @@
                   },
                   "0_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "5_1":{
@@ -528,12 +528,12 @@
                   },
                   "2_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "8_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "5_3":{
@@ -548,12 +548,12 @@
                   },
                   "7_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "4_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "1_1":{
@@ -598,7 +598,7 @@
                   },
                   "1_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "6_1":{
@@ -613,12 +613,12 @@
                   },
                   "6_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "3_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   }
                },

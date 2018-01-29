@@ -1114,7 +1114,7 @@
                   "object_type":"muffin"
                }
             ],
-            "bossMaxHealth":240,
+            "bossMaxHealth":265,
             "mode":"boss_battle",
             "episode":4,
             "boosters":[

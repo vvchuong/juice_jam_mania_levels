@@ -459,7 +459,7 @@
             },
             "scores":[
                2000,
-               12200,
+               16200,
                30300
             ],
             "title":"Level 76",
@@ -693,19 +693,19 @@
             ],
             "goals":[
                {
-                  "value":4,
+                  "value":8,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"red"
                },
                {
-                  "value":4,
+                  "value":8,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"purple"
                },
                {
-                  "value":4,
+                  "value":8,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"blue"

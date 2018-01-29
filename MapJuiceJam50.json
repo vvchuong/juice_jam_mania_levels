@@ -419,7 +419,7 @@
             },
             "scores":[
                1600,
-               11800,
+               13800,
                25900
             ],
             "title":"Level 50",
@@ -867,7 +867,7 @@
             },
             "limit":[
                {
-                  "value":40,
+                  "value":38,
                   "type":"move"
                }
             ],
@@ -889,7 +889,7 @@
                   "object_type":"muffin"
                }
             ],
-            "bossMaxHealth":200,
+            "bossMaxHealth":225,
             "mode":"boss_battle",
             "episode":4,
             "boosters":[

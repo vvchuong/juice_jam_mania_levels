@@ -1039,7 +1039,7 @@
                   "object_type":"honey"
                }
             ],
-            "bossMaxHealth":430,
+            "bossMaxHealth":450,
             "mode":"boss_battle",
             "episode":6,
             "boosters":[

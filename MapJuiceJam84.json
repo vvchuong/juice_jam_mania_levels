@@ -448,8 +448,8 @@
             },
             "scores":[
                2000,
-               13200,
-               26300
+               16200,
+               30300
             ],
             "title":"Level 84",
             "height":8,
@@ -973,31 +973,31 @@
             ],
             "goals":[
                {
-                  "value":8,
+                  "value":10,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"red"
                },
                {
-                  "value":8,
+                  "value":10,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"blue"
                },
                {
-                  "value":8,
+                  "value":10,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"purple"
                },
                {
-                  "value":8,
+                  "value":10,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"red"
                },
                {
-                  "value":8,
+                  "value":10,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"blue"

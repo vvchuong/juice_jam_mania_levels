@@ -834,7 +834,7 @@
                   "object_type":"cow"
                }
             ],
-            "bossMaxHealth":110,
+            "bossMaxHealth":120,
             "mode":"boss_battle",
             "episode":5,
             "boosters":[

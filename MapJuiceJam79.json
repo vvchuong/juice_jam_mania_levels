@@ -568,13 +568,13 @@
             ],
             "goals":[
                {
-                  "value":3,
+                  "value":5,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"red"
                },
                {
-                  "value":3,
+                  "value":5,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"green"

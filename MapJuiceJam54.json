@@ -458,8 +458,8 @@
             },
             "scores":[
                1900,
-               16600,
-               32300
+               19600,
+               37300
             ],
             "title":"Level 54",
             "height":8,
@@ -574,7 +574,7 @@
                   },
                   "6_6":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "2_1":{
@@ -609,7 +609,7 @@
                   },
                   "2_6":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "8_0":{
@@ -634,7 +634,7 @@
                   },
                   "7_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "7_2":{
@@ -644,12 +644,12 @@
                   },
                   "6_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "1_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "7_1":{
@@ -744,7 +744,7 @@
                   },
                   "2_0":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "1_5":{
@@ -799,12 +799,12 @@
                   },
                   "1_6":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "7_6":{
                      "type":"cracker",
-                     "data":"1",
+                     "data":"2",
                      "color":"white"
                   },
                   "7_4":{

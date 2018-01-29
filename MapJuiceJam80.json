@@ -904,7 +904,7 @@
                   "color":"green"
                }
             ],
-            "bossMaxHealth":580,
+            "bossMaxHealth":600,
             "mode":"boss_battle",
             "episode":5,
             "boosters":[
