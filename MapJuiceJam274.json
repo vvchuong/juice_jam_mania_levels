@@ -481,7 +481,38 @@
 
                },
                "2":{
-
+                  "3_1":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "3_2":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "3_3":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "4_3":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "5_3":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "5_2":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "5_1":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "4_1":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
                },
                "3":{
 
@@ -531,7 +562,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":28,
                   "type":"move"
                }
             ],
@@ -542,16 +573,40 @@
 
             ],
             "goals":[
-			   {
-                  "value":10,
+               {
+                  "value":15,
                   "type":"customer",
                   "object_type":"muffin"
                },
                {
-                  "value":30,
+                  "value":15,
                   "type":"customer",
                   "object_type":"match_object",
                   "color":"purple"
+               },
+               {
+                  "value":15,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"red"
+               },
+               {
+                  "value":15,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"blue"
+               },
+               {
+                  "value":15,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"yellow"
+               },
+               {
+                  "value":15,
+                  "type":"customer",
+                  "object_type":"match_object",
+                  "color":"orange"
                },
                {
                   "value":15,

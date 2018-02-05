@@ -64,11 +64,8 @@
                   "modifierType":"ice_cage"
                },
                "3_1":{
-                  "type":"match_object",
-                  "data":{
-
-                  },
-                  "color":"random2"
+                  "type":"sugar",
+                  "data":"4"
                },
                "6_5":{
                   "type":"match_object",
@@ -250,11 +247,8 @@
                   "type":"match_object"
                },
                "4_1":{
-                  "type":"match_object",
-                  "data":{
-
-                  },
-                  "modifierType":"ice_cage"
+                  "type":"sugar",
+                  "data":"6"
                },
                "1_7":{
                   "data":{
@@ -307,11 +301,8 @@
                   "type":"match_object"
                },
                "5_1":{
-                  "type":"match_object",
-                  "data":{
-
-                  },
-                  "modifierType":"ice_cage"
+                  "type":"sugar",
+                  "data":"4"
                },
                "0_5":{
                   "type":"match_object",

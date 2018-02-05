@@ -527,7 +527,7 @@
             },
             "limit":[
                {
-                  "value":30,
+                  "value":27,
                   "type":"move"
                }
             ],

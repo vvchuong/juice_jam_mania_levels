@@ -68,7 +68,8 @@
                   "data":{
 
                   },
-                  "color":"random2"
+                  "color":"random2",
+                  "modifierType":"ice_cage"
                },
                "6_5":{
                   "type":"match_object",

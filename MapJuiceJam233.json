@@ -17,7 +17,7 @@
             "objects":{
                "4_4":{
                   "type":"match_object",
-				  "modifierType":"ice_cage",
+                  "modifierType":"ice_cage",
                   "data":{
 
                   },
@@ -614,7 +614,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":29,
                   "type":"move"
                }
             ],

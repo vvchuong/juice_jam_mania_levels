@@ -486,7 +486,70 @@
 
                },
                "2":{
-
+                  "2_2":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "2_3":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "2_4":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "2_5":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "2_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "3_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "4_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "6_6":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "6_5":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "6_4":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "6_3":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "6_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "5_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "4_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "3_2":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  }
                },
                "3":{
 
@@ -921,7 +984,7 @@
             },
             "limit":[
                {
-                  "value":35,
+                  "value":25,
                   "type":"move"
                }
             ],

@@ -33,9 +33,7 @@
                   "color":"green"
                },
                "2_6":{
-                  "data":{
-
-                  },
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_O"
                },
@@ -64,21 +62,17 @@
                   "type":"invisible_brick"
                },
                "2_7":{
-                  "data":{
-
-                  },
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
                "3_7":{
-                  "data":"1",
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
                "3_6":{
-                  "data":{
-
-                  },
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
@@ -91,9 +85,7 @@
                   "type":"sugar"
                },
                "3_7":{
-                  "data":{
-
-                  },
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
@@ -177,12 +169,12 @@
                   "type":"invisible_brick"
                },
                "7_7":{
-                  "data":"1",
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
                "8_6":{
-                  "data":"1",
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
@@ -191,7 +183,7 @@
                   "data":"1"
                },
                "8_7":{
-                  "data":"1",
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_I"
                },
@@ -286,7 +278,7 @@
                   "color":"orange"
                },
                "7_6":{
-                  "data":"1",
+                  "data":"3",
                   "type":"sugar",
                   "modifierType":"watermelon_O"
                },
@@ -357,7 +349,46 @@
 
                },
                "2":{
-
+                  "4_3":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "4_4":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "4_5":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "4_6":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "5_6":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "6_6":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_5":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_4":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_3":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "5_3":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  }
                },
                "3":{
 

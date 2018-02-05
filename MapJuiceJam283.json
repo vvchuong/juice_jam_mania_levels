@@ -21,11 +21,8 @@
             "popsiclesToCollect":0,
             "objects":{
                "4_4":{
-                  "type":"match_object",
-                  "data":{
-
-                  },
-                  "color":"random2"
+                  "type":"sugar",
+                  "data":"4"
                },
                "3_5":{
                   "type":"match_object",
@@ -133,11 +130,8 @@
                   "type":"match_object"
                },
                "4_3":{
-                  "type":"match_object",
-                  "data":{
-
-                  },
-                  "color":"random"
+                  "type":"sugar",
+                  "data":"5"
                },
                "3_3":{
                   "data":{
@@ -161,10 +155,8 @@
                   "type":"muffin"
                },
                "4_2":{
-                  "data":{
-
-                  },
-                  "type":"match_object"
+                  "data":"6",
+                  "type":"sugar"
                },
                "6_0":{
                   "data":{
@@ -189,10 +181,8 @@
                   "type":"match_object"
                },
                "4_5":{
-                  "data":{
-
-                  },
-                  "type":"match_object"
+                  "data":"3",
+                  "type":"sugar"
                },
                "2_2":{
                   "data":{

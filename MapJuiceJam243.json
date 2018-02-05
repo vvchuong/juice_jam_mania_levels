@@ -353,7 +353,7 @@
                   }
                },
                "4_0":{
-                  "type":"bee",
+                  "type":"yogurt_cup",
                   "data":{
 
                   }
@@ -572,7 +572,7 @@
             },
             "limit":[
                {
-                  "value":31,
+                  "value":30,
                   "type":"move"
                }
             ],
@@ -637,10 +637,10 @@
                   "object_type":"match_object",
                   "color":"red"
                },
-			   {
-                  "value":10,
+               {
+                  "value":7,
                   "type":"customer",
-                  "object_type":"muffin"
+                  "object_type":"yogurt"
                }
             ],
             "bossMaxHealth":0,

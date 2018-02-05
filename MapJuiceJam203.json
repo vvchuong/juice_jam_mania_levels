@@ -12,7 +12,7 @@
             "bossScripts":[
 
             ],
-            "numericId":3,
+            "numericId":203,
             "popsiclesToCollect":0,
             "objects":{
                "4_4":{
@@ -479,7 +479,7 @@
                3000,
                5000
             ],
-            "title":"Level 3",
+            "title":"Level 203",
             "height":8,
             "background":"",
             "colors":{
@@ -548,7 +548,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":20,
                   "type":"move"
                }
             ],

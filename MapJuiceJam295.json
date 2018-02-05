@@ -463,7 +463,98 @@
 
                },
                "2":{
-
+                  "2_0":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_1":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_2":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_3":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_4":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_5":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_6":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_7":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "3_7":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "4_7":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "5_7":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "6_7":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_6":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_5":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_4":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_3":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_2":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_1":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "5_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "5_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "4_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "3_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  }
                },
                "3":{
 
@@ -1016,7 +1107,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":28,
                   "type":"move"
                }
             ],
@@ -1039,7 +1130,7 @@
                   "object_type":"honey"
                }
             ],
-            "bossMaxHealth":450,
+            "bossMaxHealth":460,
             "mode":"boss_battle",
             "episode":6,
             "boosters":[

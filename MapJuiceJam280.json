@@ -47,22 +47,19 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"orange"
+                  "type":"match_object"
                },
                "2_1":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"blue"
+                  "type":"match_object"
                },
                "2_7":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"orange"
+                  "type":"match_object"
                },
                "4_6":{
                   "data":{
@@ -86,57 +83,49 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"yellow"
+                  "type":"match_object"
                },
                "0_0":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"orange"
+                  "type":"match_object"
                },
                "8_5":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"red"
+                  "type":"match_object"
                },
                "2_6":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"blue"
+                  "type":"match_object"
                },
                "8_0":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"green"
+                  "type":"match_object"
                },
                "8_3":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"blue"
+                  "type":"match_object"
                },
                "0_7":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"yellow"
+                  "type":"match_object"
                },
                "8_2":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"yellow"
+                  "type":"match_object"
                },
                "3_7":{
                   "data":{
@@ -149,15 +138,13 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"green"
+                  "type":"match_object"
                },
                "7_2":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"blue"
+                  "type":"match_object"
                },
                "4_3":{
                   "data":{
@@ -175,8 +162,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"red"
+                  "type":"match_object"
                },
                "5_2":{
                   "data":{
@@ -203,8 +189,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"yellow"
+                  "type":"match_object"
                },
                "1_0":{
                   "data":{
@@ -518,7 +503,62 @@
 
                },
                "2":{
-
+                  "2_2":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_3":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_4":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "3_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "4_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "5_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "6_5":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_4":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_3":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_2":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "5_2":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "4_2":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "3_2":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  }
                },
                "3":{
 
@@ -913,7 +953,7 @@
                   "color":"red"
                }
             ],
-            "bossMaxHealth":335,
+            "bossMaxHealth":280,
             "mode":"boss_battle",
             "episode":7,
             "boosters":[

@@ -92,8 +92,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"orange"
+                  "type":"invisible_brick"
                },
                "8_5":{
                   "data":{
@@ -113,8 +112,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"green"
+                  "type":"invisible_brick"
                },
                "8_3":{
                   "data":{
@@ -127,7 +125,7 @@
                   "data":{
 
                   },
-                  "type":"invisible_brick"
+                  "type":"match_object"
                },
                "8_2":{
                   "data":{
@@ -241,7 +239,8 @@
                   "data":{
 
                   },
-                  "type":"yogurt_cup"
+                  "type":"match_object",
+                  "color":"orange"
                },
                "3_0":{
                   "data":{
@@ -254,8 +253,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"yellow"
+                  "type":"yogurt_cup"
                },
                "6_1":{
                   "data":{
@@ -284,14 +282,13 @@
                   "data":{
 
                   },
-                  "type":"invisible_brick"
+                  "type":"match_object"
                },
                "8_1":{
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"red"
+                  "type":"yogurt_cup"
                },
                "7_7":{
                   "data":{
@@ -452,7 +449,8 @@
                   "data":{
 
                   },
-                  "type":"yogurt_cup"
+                  "type":"match_object",
+                  "color":"orange"
                },
                "7_6":{
                   "data":{
@@ -527,7 +525,78 @@
 
                },
                "2":{
-
+                  "2_0":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_1":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_2":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_3":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_4":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "2_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "3_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "4_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "5_5":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "6_5":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_4":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_3":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_2":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_1":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "6_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "5_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "4_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "3_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  }
                },
                "3":{
 

@@ -459,7 +459,7 @@
             "scores":[
                2000,
                8100,
-               14100
+               12100
             ],
             "title":"Level 289",
             "height":8,
@@ -479,7 +479,54 @@
 
                },
                "2":{
-
+                  "4_0":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "4_1":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "4_2":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "4_3":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "5_3":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "6_3":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "7_3":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "7_2":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "7_1":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "7_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "6_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "5_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  }
                },
                "3":{
 
@@ -1147,7 +1194,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":29,
                   "type":"move"
                }
             ],

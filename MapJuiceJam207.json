@@ -15,6 +15,22 @@
             "numericId":207,
             "popsiclesToCollect":3,
             "objects":{
+               "1_0":{
+                  "data":"1",
+                  "type":"yogurt"
+               },
+               "3_0":{
+                  "data":"1",
+                  "type":"yogurt"
+               },
+               "5_0":{
+                  "data":"1",
+                  "type":"yogurt"
+               },
+               "7_0":{
+                  "data":"1",
+                  "type":"yogurt"
+               },
                "4_4":{
                   "data":"1",
                   "type":"sugar"

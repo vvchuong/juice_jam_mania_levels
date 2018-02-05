@@ -97,7 +97,7 @@
                   "data":{
 
                   },
-                  "type":"match_object"
+                  "type":"yogurt"
                },
                "3_7":{
                   "data":{
@@ -163,7 +163,7 @@
                   "data":{
 
                   },
-                  "type":"match_object"
+                  "type":"yogurt"
                },
                "5_7":{
                   "data":{
@@ -527,11 +527,6 @@
                      "data":"1",
                      "color":"white"
                   },
-                  "7_2":{
-                     "type":"ice",
-                     "data":"1",
-                     "color":"white"
-                  },
                   "3_7":{
                      "type":"ice",
                      "data":"1",
@@ -563,11 +558,6 @@
                      "color":"white"
                   },
                   "1_1":{
-                     "type":"ice",
-                     "data":"1",
-                     "color":"white"
-                  },
-                  "0_2":{
                      "type":"ice",
                      "data":"1",
                      "color":"white"

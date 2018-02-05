@@ -12,7 +12,7 @@
             "bossScripts":[
 
             ],
-            "numericId":104,
+            "numericId":204,
             "popsiclesToCollect":8,
             "objects":{
                "4_4":{
@@ -453,7 +453,7 @@
                11100,
                20500
             ],
-            "title":"Level 104",
+            "title":"Level 204",
             "height":8,
             "background":"",
             "colors":{
@@ -472,7 +472,78 @@
 
                },
                "2":{
-
+                  "3_0":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_1":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_2":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_3":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_4":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_5":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_6":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "3_7":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "4_7":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_7":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_6":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_5":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_4":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_3":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_2":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_1":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "5_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "4_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  }
                },
                "3":{
 
@@ -856,7 +927,7 @@
             },
             "limit":[
                {
-                  "value":35,
+                  "value":31,
                   "type":"move"
                }
             ],

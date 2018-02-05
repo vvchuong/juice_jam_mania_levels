@@ -480,7 +480,94 @@
 
                },
                "2":{
-
+                  "0_1":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "0_2":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "0_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "1_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "3_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "4_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "6_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "7_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "8_3":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "8_2":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "8_1":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "7_1":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "7_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "5_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "4_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "3_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "2_0":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_0":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "1_1":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  }
                },
                "3":{
 
@@ -1008,7 +1095,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":26,
                   "type":"move"
                }
             ],

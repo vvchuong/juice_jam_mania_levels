@@ -779,7 +779,7 @@
             },
             "limit":[
                {
-                  "value":31,
+                  "value":28,
                   "type":"move"
                }
             ],

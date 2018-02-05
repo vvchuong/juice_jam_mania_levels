@@ -302,7 +302,7 @@
             },
             "scores":[
                1900,
-               19600,
+               9600,
                37300
             ],
             "title":"Level 253",
@@ -323,7 +323,46 @@
 
                },
                "2":{
-
+                  "5_0":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "5_1":{
+                     "type":"conveyor_belt",
+                     "data":"up"
+                  },
+                  "5_2":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "6_2":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "7_2":{
+                     "type":"conveyor_belt",
+                     "data":"right"
+                  },
+                  "8_2":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "8_1":{
+                     "type":"conveyor_belt",
+                     "data":"down"
+                  },
+                  "8_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "7_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  },
+                  "6_0":{
+                     "type":"conveyor_belt",
+                     "data":"left"
+                  }
                },
                "3":{
 
@@ -783,7 +822,7 @@
             },
             "limit":[
                {
-                  "value":36,
+                  "value":28,
                   "type":"move"
                }
             ],

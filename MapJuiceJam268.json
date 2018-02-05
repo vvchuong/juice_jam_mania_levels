@@ -67,8 +67,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"green"
+                  "type":"invisible_brick"
                },
                "1_0":{
                   "data":{
@@ -341,8 +340,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"red"
+                  "type":"invisible_brick"
                },
                "7_5":{
                   "type":"match_object",

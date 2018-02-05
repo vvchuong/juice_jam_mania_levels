@@ -537,7 +537,54 @@
 
                },
                "2":{
-
+                  "1_3":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "1_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "3_4":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "3_3":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "2_3":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "5_3":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "5_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "6_4":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "7_4":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "7_3":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_3":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  }
                },
                "3":{
 
@@ -691,7 +738,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":27,
                   "type":"move"
                }
             ],

@@ -50,11 +50,10 @@
                   "color":"random3"
                },
                "2_7":{
-                  "type":"match_object",
+                  "type":"invisible_brick",
                   "data":{
 
-                  },
-                  "color":"random"
+                  }
                },
                "4_6":{
                   "data":{
@@ -116,7 +115,7 @@
                   "data":{
 
                   },
-                  "type":"match_object"
+                  "type":"invisible_brick"
                },
                "8_2":{
                   "data":{
@@ -266,7 +265,7 @@
                   "data":{
 
                   },
-                  "type":"ice_cube"
+                  "type":"invisible_brick"
                },
                "8_1":{
                   "data":{
@@ -440,7 +439,7 @@
                   "data":{
 
                   },
-                  "type":"ice_cube"
+                  "type":"invisible_brick"
                },
                "5_3":{
                   "data":{

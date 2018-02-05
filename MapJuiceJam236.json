@@ -26,7 +26,7 @@
 
                   },
                   "type":"match_object",
-				  "modifierType":"ice_cage",
+                  "modifierType":"ice_cage",
                   "color":"green"
                },
                "5_0":{
@@ -512,7 +512,54 @@
 
                },
                "2":{
-
+                  "1_1":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "1_2":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "1_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_3":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "2_2":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "2_1":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_1":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "6_2":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  },
+                  "6_3":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "7_3":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "7_2":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "7_1":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
                },
                "3":{
 

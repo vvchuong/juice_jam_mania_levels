@@ -210,8 +210,7 @@
                   "data":{
 
                   },
-                  "type":"match_object",
-                  "color":"red"
+                  "type":"yogurt_cup"
                },
                "4_1":{
                   "data":{
@@ -513,7 +512,62 @@
 
                },
                "2":{
-
+                  "1_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "2_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "3_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "4_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "5_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "6_6":{
+                     "data":"right",
+                     "type":"conveyor_belt"
+                  },
+                  "7_6":{
+                     "data":"down",
+                     "type":"conveyor_belt"
+                  },
+                  "7_5":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "6_5":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "5_5":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "4_5":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "3_5":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "2_5":{
+                     "data":"left",
+                     "type":"conveyor_belt"
+                  },
+                  "1_5":{
+                     "data":"up",
+                     "type":"conveyor_belt"
+                  }
                },
                "3":{
 
@@ -563,7 +617,7 @@
             },
             "limit":[
                {
-                  "value":32,
+                  "value":20,
                   "type":"move"
                }
             ],
@@ -574,6 +628,11 @@
 
             ],
             "goals":[
+               {
+                  "value":5,
+                  "type":"customer",
+                  "object_type":"yogurt"
+               },
                {
                   "value":4,
                   "type":"customer",

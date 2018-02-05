@@ -76,5 +76,5 @@
 {"value":1,"type":"break","object_type":"match_object","color":"green"},
 {"value":1,"type":"break","object_type":"match_object","color":"yellow"},
 {"value":1,"type":"break","object_type":"match_object","color":"red"}
-],"bossMaxHealth":335,"mode":"boss_battle","episode":7,"boosters":[],"game":19,"data":[],"recipe_item":""
+],"bossMaxHealth":300,"mode":"boss_battle","episode":7,"boosters":[],"game":19,"data":[],"recipe_item":""
 }]}}
